@@ -1,1 +1,3 @@
-# LeanIn_July2021_Competitive-Coding_Sanskriti-Negi
+# LeanIn Competitive-Coding Milestone 1
+
+## Contains CP questions of Array and strings of LeetCode.
